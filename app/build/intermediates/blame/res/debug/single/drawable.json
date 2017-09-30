@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/build/intermediates/res/merged/debug/drawable/take_video_selector.xml",
+        "source": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/src/main/res/drawable/take_video_selector.xml"
+    },
+    {
+        "merged": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/build/intermediates/res/merged/debug/drawable/take_photo_selector.xml",
+        "source": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/src/main/res/drawable/take_photo_selector.xml"
+    }
+]

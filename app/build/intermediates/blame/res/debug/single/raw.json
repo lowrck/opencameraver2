@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/build/intermediates/res/merged/debug/raw/process_hdr.bc",
+        "source": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/build/generated/res/rs/debug/raw/process_hdr.bc"
+    },
+    {
+        "merged": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/build/intermediates/res/merged/debug/raw/align_mtb.bc",
+        "source": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/build/generated/res/rs/debug/raw/align_mtb.bc"
+    },
+    {
+        "merged": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/build/intermediates/res/merged/debug/raw/beep_hi.ogg",
+        "source": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/src/main/res/raw/beep_hi.ogg"
+    },
+    {
+        "merged": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/build/intermediates/res/merged/debug/raw/avg_brighten.bc",
+        "source": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/build/generated/res/rs/debug/raw/avg_brighten.bc"
+    },
+    {
+        "merged": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/build/intermediates/res/merged/debug/raw/histogram_compute.bc",
+        "source": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/build/generated/res/rs/debug/raw/histogram_compute.bc"
+    },
+    {
+        "merged": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/build/intermediates/res/merged/debug/raw/process_avg.bc",
+        "source": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/build/generated/res/rs/debug/raw/process_avg.bc"
+    },
+    {
+        "merged": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/build/intermediates/res/merged/debug/raw/calculate_sharpness.bc",
+        "source": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/build/generated/res/rs/debug/raw/calculate_sharpness.bc"
+    },
+    {
+        "merged": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/build/intermediates/res/merged/debug/raw/beep.ogg",
+        "source": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/src/main/res/raw/beep.ogg"
+    },
+    {
+        "merged": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/build/intermediates/res/merged/debug/raw/create_mtb.bc",
+        "source": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/build/generated/res/rs/debug/raw/create_mtb.bc"
+    },
+    {
+        "merged": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/build/intermediates/res/merged/debug/raw/histogram_adjust.bc",
+        "source": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/build/generated/res/rs/debug/raw/histogram_adjust.bc"
+    }
+]

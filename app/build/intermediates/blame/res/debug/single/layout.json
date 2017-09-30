@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/build/intermediates/res/merged/debug/layout/widget_layout_take_photo.xml",
+        "source": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/src/main/res/layout/widget_layout_take_photo.xml"
+    },
+    {
+        "merged": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/build/intermediates/res/merged/debug/layout/widget_layout.xml",
+        "source": "/Users/lewismarx/StudioProjects/opencamera-ver1/app/src/main/res/layout/widget_layout.xml"
+    }
+]
